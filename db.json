@@ -1,5 +1,6 @@
 {
     "cronograma": [
+        {
         "turma": [
             "id": 1,
             "eventos": [
@@ -20,5 +21,6 @@
 
             ] 
         ]
+        }
     ]
 }
