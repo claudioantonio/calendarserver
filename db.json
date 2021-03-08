@@ -1,23 +1,20 @@
 {
 	"cronograma": [{
-		"turma": [{
-			"id": 1,
-			"eventos": [{
-					"id": 1,
-					"data": "08-03-2021",
-					"hora": "20:00hs",
-					"local": "Rua Assunção",
-					"nome": "Prática de Arquétipos"
-				},
-				{
-					"id": 2,
-					"data": "09-03-2021",
-					"hora": "20:00hs",
-					"local": "Rua Assunção",
-					"nome": "Roda de Aletheia"
-				}
-
-			]
-		}]
+		"turma": 1,
+		"eventos": [{
+				"id": 1,
+				"data": "08-03-2021",
+				"hora": "20:00hs",
+				"local": "Rua Assunção",
+				"nome": "Prática de Arquétipos"
+			},
+			{
+				"id": 2,
+				"data": "09-03-2021",
+				"hora": "20:00hs",
+				"local": "Rua Assunção",
+				"nome": "Roda de Aletheia"
+			}
+		]
 	}]
 }
