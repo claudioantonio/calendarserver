@@ -1,6 +1,6 @@
 {
-	"cronograma": [{
-		"turma": 1,
+	"turmas": [{
+		"id": 1,
 		"eventos": [{
 				"id": 1,
 				"data": "08-03-2021",
